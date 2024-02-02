@@ -1,0 +1,8 @@
+{
+    "C_Cpp.vcFormat.space.removeAroundMemberOperators": true,
+    "C_Cpp.vcFormat.space.pointerReferenceAlignment": "left",
+    "files.associations": {
+        "numbers": "c",
+        "string": "c"
+    }
+}
